@@ -1,1 +1,1 @@
-# Facade Pattern Example
+# Adapter Pattern Example
